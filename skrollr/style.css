@@ -1,0 +1,12 @@
+.box{
+	position:fixed;
+	left: 0;
+	top: 0;
+	width: 310px;
+	height: 60px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	line-height: 60px;
+	background-color: #00aaf2;
+}
